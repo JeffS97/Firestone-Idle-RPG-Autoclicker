@@ -13,4 +13,6 @@ Hotkey|Function|
 # How to use
 Just simply double click this script once Firestone is running and hit either of the hotkeys as desired
 
+*when it comes to the third skill spam, to deactivate it, you might need to input ctrl + e at the exact same time*
+
 > Feel free to use and modify this script however you'd like to suit your needs, this does act as a framework and a kind of learning experience with autohotkey and scripting in general. 
