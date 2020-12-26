@@ -11,7 +11,7 @@ Hotkey|Function|
 >Take note that 3rd skill spam will constantly activate the firestone window 
 
 # How to use
-Just simply double click this script once Firestone is running and hit either of the hotkeys as desired
+Just simply double click the firestone.ahk script once Firestone is running and hit either of the hotkeys as desired
 
 *when it comes to the third skill spam, to deactivate it, you might need to input ctrl + e at the exact same time*
 
